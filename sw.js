@@ -1,4 +1,4 @@
-const CACHE = 'wt-fa211756';
+const CACHE = 'wt-ca92d7ad';
 const SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 self.addEventListener('install', (e) => {
   e.waitUntil((async () => {
